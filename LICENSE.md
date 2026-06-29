@@ -1,4 +1,4 @@
-# 
+# Lightweight SpeechSynth bundle. Download and install with community-support and command-line-interface — fast, secure, and easy to use.
 
 
 
